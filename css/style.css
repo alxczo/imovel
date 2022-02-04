@@ -1,0 +1,10 @@
+.container {
+  text-align: center;
+  color: #ffff;
+  background-image: linear-gradient(#fbc2eb, #a6c1ee);
+  font-family: 'Segoe UI';
+  border-radius: 100px;
+  width: 350px;
+  height: 220px;
+  margin: 300px auto;
+}
